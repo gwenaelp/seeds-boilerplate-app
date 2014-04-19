@@ -32,6 +32,6 @@ require.config({
 	}
 });
 
-require(['seeds/utils/console'], function() {
+require(['seeds/utils/console/console'], function() {
 	require(['main']);
 });
