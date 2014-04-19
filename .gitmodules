@@ -1,0 +1,3 @@
+[submodule "lib/seeds"]
+	path = lib/seeds
+	url = https://github.com/gwenaelp/seedsJS-framework.git
